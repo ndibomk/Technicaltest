@@ -1,0 +1,19 @@
+{
+  "name": "technicaltext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Technicaltest.js",
+  "scripts": {
+    "start": "node Technicaltest.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "jest": "^29.6.2"
+  }
+}
